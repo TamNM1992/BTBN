@@ -1,0 +1,28 @@
+D:\Source\WEB\uploadFilesAPI\TestUpload\bin\Debug\TestUpload.exe.config
+D:\Source\WEB\uploadFilesAPI\TestUpload\bin\Debug\TestUpload.exe
+D:\Source\WEB\uploadFilesAPI\TestUpload\bin\Debug\TestUpload.pdb
+D:\Source\WEB\uploadFilesAPI\TestUpload\obj\Debug\TestUpload.csproj.AssemblyReference.cache
+D:\Source\WEB\uploadFilesAPI\TestUpload\obj\Debug\TestUpload.csproj.SuggestedBindingRedirects.cache
+D:\Source\WEB\uploadFilesAPI\TestUpload\obj\Debug\TestUpload.Form1.resources
+D:\Source\WEB\uploadFilesAPI\TestUpload\obj\Debug\TestUpload.Properties.Resources.resources
+D:\Source\WEB\uploadFilesAPI\TestUpload\obj\Debug\TestUpload.csproj.GenerateResource.cache
+D:\Source\WEB\uploadFilesAPI\TestUpload\obj\Debug\TestUpload.csproj.CoreCompileInputs.cache
+D:\Source\WEB\uploadFilesAPI\TestUpload\obj\Debug\TestUpload.exe
+D:\Source\WEB\uploadFilesAPI\TestUpload\obj\Debug\TestUpload.pdb
+D:\Source\WEB\uploadFilesAPI\TestUpload\bin\Debug\Newtonsoft.Json.dll
+D:\Source\WEB\uploadFilesAPI\TestUpload\bin\Debug\Newtonsoft.Json.xml
+D:\Source\WEB\uploadFilesAPI\TestUpload\obj\Debug\TestUpload.csproj.CopyComplete
+F:\Dự án TTT số 2\uploadFilesAPI\TestUpload\bin\Debug\TestUpload.exe.config
+F:\Dự án TTT số 2\uploadFilesAPI\TestUpload\bin\Debug\TestUpload.exe
+F:\Dự án TTT số 2\uploadFilesAPI\TestUpload\bin\Debug\TestUpload.pdb
+F:\Dự án TTT số 2\uploadFilesAPI\TestUpload\bin\Debug\Newtonsoft.Json.dll
+F:\Dự án TTT số 2\uploadFilesAPI\TestUpload\bin\Debug\Newtonsoft.Json.xml
+F:\Dự án TTT số 2\uploadFilesAPI\TestUpload\obj\Debug\TestUpload.csproj.AssemblyReference.cache
+F:\Dự án TTT số 2\uploadFilesAPI\TestUpload\obj\Debug\TestUpload.csproj.SuggestedBindingRedirects.cache
+F:\Dự án TTT số 2\uploadFilesAPI\TestUpload\obj\Debug\TestUpload.Form1.resources
+F:\Dự án TTT số 2\uploadFilesAPI\TestUpload\obj\Debug\TestUpload.Properties.Resources.resources
+F:\Dự án TTT số 2\uploadFilesAPI\TestUpload\obj\Debug\TestUpload.csproj.GenerateResource.cache
+F:\Dự án TTT số 2\uploadFilesAPI\TestUpload\obj\Debug\TestUpload.csproj.CoreCompileInputs.cache
+F:\Dự án TTT số 2\uploadFilesAPI\TestUpload\obj\Debug\TestUpload.csproj.CopyComplete
+F:\Dự án TTT số 2\uploadFilesAPI\TestUpload\obj\Debug\TestUpload.exe
+F:\Dự án TTT số 2\uploadFilesAPI\TestUpload\obj\Debug\TestUpload.pdb
